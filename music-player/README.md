@@ -6,7 +6,7 @@ The project presents a complete audio playback experience with a responsive inte
 
 ## Live Demo
 
-https://fazal305.github.io/CodeAlpha_MusicPlayer/
+https://fazal305.github.io/CodeAlpha-Internship/music-player/
 
 ## Preview
 
@@ -37,7 +37,7 @@ https://fazal305.github.io/CodeAlpha_MusicPlayer/
 ## Project Structure
 
 ```text
-CodeAlpha_MusicPlayer/
+music-player/
 |-- index.html
 |-- player-styles.css
 |-- player-script.js

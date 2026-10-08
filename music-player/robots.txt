@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fazal305.github.io/CodeAlpha_MusicPlayer/sitemap.xml
+Sitemap: https://fazal305.github.io/CodeAlpha-Internship/music-player/sitemap.xml

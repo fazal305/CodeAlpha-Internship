@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fazal305.github.io/CodeAlpha_Portfolio_Website/sitemap.xml
+Sitemap: https://fazal305.github.io/CodeAlpha-Internship/portfolio-website/sitemap.xml

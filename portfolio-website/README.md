@@ -4,8 +4,8 @@ A modern dark cyberpunk portfolio website built with HTML5, CSS3, JavaScript, an
 
 ## Live Links
 
-- GitHub Repository: https://github.com/fazal305/CodeAlpha_Portfolio_Website
-- Live Demo: https://fazal305.github.io/CodeAlpha_Portfolio_Website/
+- GitHub Repository: https://github.com/fazal305/CodeAlpha-Internship/tree/main/portfolio-website
+- Live Demo: https://fazal305.github.io/CodeAlpha-Internship/portfolio-website/
 
 ## Overview
 
@@ -37,7 +37,7 @@ It was built as part of the CodeAlpha Frontend Development Internship and later 
 - Bootstrap 5
 - GitHub Pages
   Folder Structure
-  CodeAlpha_Portfolio_Website/
+  portfolio-website/
   index.html
   styles.css
   script.js
@@ -51,12 +51,11 @@ It was built as part of the CodeAlpha Frontend Development Internship and later 
 
 Clone the repository:
 
-git clone https://github.com/fazal305/CodeAlpha_Portfolio_Website.git
+git clone https://github.com/fazal305/CodeAlpha-Internship.git
 
 Open the folder:
 
-cd CodeAlpha_Portfolio_Website
-
+cd CodeAlpha-Internship/portfolio-website
 Open index.html in your browser.
 
 No build tools or installation required.

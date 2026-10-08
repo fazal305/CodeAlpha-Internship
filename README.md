@@ -14,10 +14,10 @@ This repository acts as a portfolio hub for the internship work, consolidating w
 
 | # | Project | Description | Folder | Live Demo |
 |---|---------|-------------|--------|-----------|
-| 01 | Calculator App | A responsive cyberpunk calculator app built with HTML, CSS, and vanilla JavaScript. | [calculator-app](./calculator-app) | [Live Demo](https://fazal305.github.io/CodeAlpha_Calculator_App/) |
-| 02 | Portfolio Website | A responsive cyberpunk portfolio website built with HTML, CSS, JavaScript, and Bootstrap 5. | [portfolio-website](./portfolio-website) | [Live Demo](https://fazal305.github.io/CodeAlpha_Portfolio_Website/) |
-| 03 | Music Player | A modern music player built with HTML, CSS, and JavaScript featuring vinyl record animation, playlist management, autoplay, shuffle, repeat modes, progress tracking, and volume controls. | [music-player](./music-player) | [Live Demo](https://fazal305.github.io/CodeAlpha_MusicPlayer/) |
-| 04 | Image Gallery | A responsive neon image gallery with category filters, search, masonry layout, fullscreen lightbox, and smooth animations. | [image-gallery](./image-gallery) | [Live Demo](https://fazal305.github.io/CodeAlpha_ImageGallery/) |
+| 01 | Calculator App | A responsive cyberpunk calculator app built with HTML, CSS, and vanilla JavaScript. | [calculator-app](./calculator-app) | [Live Demo](https://fazal305.github.io/CodeAlpha-Internship/calculator-app/) |
+| 02 | Portfolio Website | A responsive cyberpunk portfolio website built with HTML, CSS, JavaScript, and Bootstrap 5. | [portfolio-website](./portfolio-website) | [Live Demo](https://fazal305.github.io/CodeAlpha-Internship/portfolio-website/) |
+| 03 | Music Player | A modern music player built with HTML, CSS, and JavaScript featuring vinyl record animation, playlist management, autoplay, shuffle, repeat modes, progress tracking, and volume controls. | [music-player](./music-player) | [Live Demo](https://fazal305.github.io/CodeAlpha-Internship/music-player/) |
+| 04 | Image Gallery | A responsive neon image gallery with category filters, search, masonry layout, fullscreen lightbox, and smooth animations. | [image-gallery](./image-gallery) | [Live Demo](https://fazal305.github.io/CodeAlpha-Internship/image-gallery/) |
 
 ## Skills Practiced
 

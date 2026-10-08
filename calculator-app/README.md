@@ -4,8 +4,8 @@ A modern cyberpunk-themed calculator built with HTML, CSS, and vanilla JavaScrip
 
 ## Live Links
 
-- GitHub Repository: https://github.com/fazal305/CodeAlpha_Calculator_App
-- Live Demo: https://fazal305.github.io/CodeAlpha_Calculator_App/
+- GitHub Repository: https://github.com/fazal305/CodeAlpha-Internship/tree/main/calculator-app
+- Live Demo: https://fazal305.github.io/CodeAlpha-Internship/calculator-app/
 
 ## Overview
 
@@ -36,7 +36,7 @@ The project is built with beginner-friendly vanilla JavaScript and focuses on DO
 - Vanilla JavaScript
 - GitHub Pages
   Folder Structure
-  CodeAlpha_Calculator_App/
+  calculator-app/
   index.html
   styles.css
   script.js
@@ -48,9 +48,9 @@ The project is built with beginner-friendly vanilla JavaScript and focuses on DO
 To run this project locally:
 
 Clone the repository.
-git clone https://github.com/fazal305/CodeAlpha_Calculator_App.git
+git clone https://github.com/fazal305/CodeAlpha-Internship.git
 Open the project folder.
-cd CodeAlpha_Calculator_App
+cd CodeAlpha-Internship/calculator-app
 Open index.html in your browser.
 
 No installation or build tools are required.

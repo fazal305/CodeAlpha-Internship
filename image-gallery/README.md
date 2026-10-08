@@ -6,11 +6,11 @@ The gallery focuses on a smooth portfolio-style browsing experience with categor
 
 ## Live Demo
 
-https://fazal305.github.io/CodeAlpha_ImageGallery/
+https://fazal305.github.io/CodeAlpha-Internship/image-gallery/
 
 ## Repository
 
-https://github.com/fazal305/CodeAlpha_ImageGallery
+https://github.com/fazal305/CodeAlpha-Internship/tree/main/image-gallery
 
 ## Features
 
@@ -36,7 +36,7 @@ https://github.com/fazal305/CodeAlpha_ImageGallery
 ## Project Structure
 
 ```text
-CodeAlpha_ImageGallery/
+image-gallery/
 |-- index.html
 |-- gallery-styles.css
 |-- gallery-script.js
